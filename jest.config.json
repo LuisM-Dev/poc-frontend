@@ -1,0 +1,8 @@
+{
+    "moduleNameMapper": {
+      "single-spa": "<rootDir>/single-spa.js"
+    },
+    "setupFiles": [
+      "<rootDir>/setupTests.js"
+    ]
+  }
