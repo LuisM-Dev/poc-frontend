@@ -34,7 +34,7 @@
     "single-spa": "^4.4.1",
     "single-spa-react": "^2.10.4",
     "uniqid": "^5.2.0",
-    "validator": "^12.1.0",
+    "validator": "^13.7.0",
     "workerize": "^0.1.8"
   },
   "devDependencies": {
